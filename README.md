@@ -24,4 +24,4 @@ A Streamlit web app that compares product analytics KPIs between two weeks. Uplo
 Use the included `week1.csv` and `week2.csv` files to test the app immediately.
 
 ## Live Demo
-[Add your Streamlit Cloud link here after deployment]
+https://kpi-comparison-app-3byfzflm4md97cchhappwmy.streamlit.app/
